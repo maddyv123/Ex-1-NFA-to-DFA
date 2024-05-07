@@ -1,7 +1,8 @@
 
 # Ex-1-NFA-to-DFA
 # Exercise 1 - Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA)
-
+# Name:Mathavan V
+# Register No:212223110026
 # Date: 
 ## Aim
 To write a C program for Conversion of Non-Deterministic Finite Automaton (NFA) To 
